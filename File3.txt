@@ -1,4 +1,9 @@
 #A000457098
 Public int average (int a, int b) {
 return Avg- Math.avg();
+
+#A00453339
+public int Pow(int a, int b) {
+return Math.Pow;
+
 }

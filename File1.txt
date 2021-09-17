@@ -1,4 +1,10 @@
 #A000457098
 Public int subtraction (int a, int b) {
 return a-b;
+
+#A00455338
+
+Public int addition(int a,int b){
+	return a+b;
+
 }
