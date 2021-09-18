@@ -1,6 +1,7 @@
 #A000457098
 Public int subtraction (int a, int b) {
 return a-b;
+}
 
 #A00455338
 
@@ -8,3 +9,9 @@ Public int addition(int a,int b){
 	return a+b;
 
 }
+
+
+#A00453339
+public int multiplication(int a, int b) {
+return a*b;
+
